@@ -109,3 +109,18 @@ body {
   display: flex;
   align-items: center;
 }
+
+#attribution {
+  font: var(--txt-3);
+  color: #111111;
+  transform: translateY(200px);
+}
+
+#attribution a {
+  color: #111111;
+  text-decoration: none;
+}
+
+#attribution a:hover {
+  color: white;
+}
